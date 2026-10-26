@@ -230,4 +230,4 @@ AnyTrans is offered as a full free version with all features and updates include
 Unlock the full potential of your iOS device with **AnyTrans** today! Download now and experience seamless file management like never before.
 
 ---
-**Last updated:** 2026-10-26 02:51:04 UTC
+**Last updated:** 2026-10-26 08:25:13 UTC
